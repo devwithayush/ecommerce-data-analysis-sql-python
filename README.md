@@ -1,7 +1,6 @@
 # 🛒 E-Commerce Data Analysis (Olist Dataset)
 
 Analyzes 100K+ e-commerce transactions to identify critical business challenges such as <10% customer retention, 7–8% delivery delays, and skewed product demand, by leveraging Python, SQL, and MySQL, and delivers actionable insights to improve business performance.
----
 
 ## 🚀 Project Overview
 
