@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+ecom_venv/
+
+.ipynb_checkpoints/
+
+.env
+
+Thumbs.db
