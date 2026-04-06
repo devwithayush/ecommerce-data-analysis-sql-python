@@ -8,3 +8,6 @@ ecom_venv/
 .env
 
 Thumbs.db
+
+data/cleaned/
+data/raw/
