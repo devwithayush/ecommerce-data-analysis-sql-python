@@ -16,7 +16,8 @@ This project analyzes customer behavior, revenue trends, delivery performance, a
 - Source: Brazilian E-Commerce Public Dataset (Olist)
 - 📦 100K+ Orders  
 - 👥 90K+ Customers  
-- 🛍️ 110K+ Order Items  
+- 🛍️ 110K+ Order Items
+- many more ...
 
 After preprocessing, a final dataset with **100K+ records** was created for analysis.
 
